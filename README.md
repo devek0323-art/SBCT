@@ -15,8 +15,8 @@
 
 ## 사용
 
-사용방법은 디시인사이드 에디파이어 갤러리 공지를 참고 부탁드립니다. ([링크](https://gall.dcinside.com/mgallery/board/lists?id=fxxkedifire))
+사용방법은 디시인사이드 에디파이어 갤러리 공지를 참고 부탁드립니다. ([링크](https://gall.dcinside.com/mgallery/board/view/?id=fxxkedifire&no=336))
 
-## 고지
+## 문서
 
-[서드파티 고지](THIRD_PARTY_NOTICES.md)
+[AndroidMic 연동](docs/androidmic.md) · [개발·빌드](docs/DEVELOP.md) · [서드파티 고지](THIRD_PARTY_NOTICES.md)
