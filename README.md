@@ -11,7 +11,7 @@
 
 ## 다운로드
 
-[Releases](https://github.com/devek0323-art/SBCT/releases/latest)에서 `SBCT-0.6.1-Setup.exe`를 받아 실행한다.
+[Releases](https://github.com/devek0323-art/SBCT/releases/latest)에서 `SBCT-0.7.0-Setup.exe`를 받아 실행한다.
 
 ## 사용
 
